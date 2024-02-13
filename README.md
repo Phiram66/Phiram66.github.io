@@ -4,7 +4,7 @@
 
 สำหรับรายวิชา oop
 
-![download banner](./banner2.jpg)
+![download banner](./banner1.jpg)
 
 ## Sci-Fi คือ อะไร 
 
