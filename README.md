@@ -1,10 +1,10 @@
-![banner](https://miro.medium.com/v2/resize:fit:3360/1*DMlKhqsvru2OMfHkBBBeUw.jpeg)
+![banner](https://k-lytics.com/wp-content/uploads/2018/07/FB-Sci-Fi-Town-in-future-planet-1200.png)
 
 # สมุดบันทึก
 
 สำหรับรายวิชา oop
 
-![download banner](./banner1.jpg)
+![download banner](./banner2.jpg)
 
 ## Sci-Fi คือ อะไร 
 
